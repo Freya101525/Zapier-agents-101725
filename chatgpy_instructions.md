@@ -1,3 +1,6 @@
+Please give me code (python) example how to access zapier API to do Find top 3 tech news from today and add to my Google Sheet with title link and summary in a python based agentic ai system deployed on hugging face space using streamlit, agents.yaml. Please create a comprehensive instructions for beginner. Ending with follow up questions
+
+
 Nice — I’ll give you a complete, copy-pasteable example you can deploy now: a Streamlit-based **agentic** Python app (for Hugging Face Spaces) that:
 
 1. Fetches the **top 3 tech news items from today** (using NewsAPI as the news source — you can swap this for any news source),
